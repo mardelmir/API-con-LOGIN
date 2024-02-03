@@ -1,0 +1,22 @@
+# Node.js
+node_modules/
+package-lock.json
+
+# Logs
+logs/
+*.log
+
+# Dependencias de desarrollo
+.env
+
+# Archivos de construcción
+build/
+
+
+# Archivos de configuración de editor
+.vscode/
+.idea/
+
+# Archivos de sistema
+.DS_Store
+Thumbs.db
